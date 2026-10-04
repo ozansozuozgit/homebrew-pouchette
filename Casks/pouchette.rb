@@ -1,6 +1,6 @@
 cask "pouchette" do
-  version "0.1.7"
-  sha256 "e4969e048681a723a021a361f10847c800167c5d5ee7195d7fa92d0724295175"
+  version "0.2.0"
+  sha256 "b1300808c74378cc4fdb232a97036f84c0295fa06af89d92a763602aca0388bc"
 
   url "https://github.com/ozansozuozgit/pouchette-releases/releases/download/v#{version}/Pouchette-#{version}.dmg"
   name "Pouchette"
